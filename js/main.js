@@ -14,3 +14,5 @@ $(".arrowWork").click(function(){
       scrollTop: $("#work").offset().top
    }, 800);
 });
+
+$('.carousel').carousel();
